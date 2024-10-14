@@ -2,6 +2,6 @@
 	path = buildroot
 	url = https://github.com/buildroot/buildroot.git
 	branch = 2024.08
-[submodule "application/application"]
-	path = application/application
+[submodule "application/lv_benchmark"]
+	path = application/lv_benchmark
 	url = https://github.com/EDGEMTech/lv_benchmark.git
